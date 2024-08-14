@@ -23,18 +23,15 @@
  |SCM|`Git&Github`|
  |ETC.|`Notion`|
 
-## 프로젝트 흐름도
-> #### 프로젝트 흐름도
-![codestate_pettalk_flow](https://github.com/user-attachments/assets/fdc0bb84-7644-4b3d-bc6a-7a0c7e17f1b5)
+## 프로젝트 ERD
+> #### 프로젝트 ERD
+![miniproject_erd](https://github.com/user-attachments/assets/b9e74e85-56a8-4778-9f81-b6ddd0f2b806)
 
 ## 담당영역 화면
-> #### 로그인 화면
-![로그인화면](https://github.com/user-attachments/assets/b59faf05-ab79-417e-acea-1e1600ddae5f)
+> #### 기업회원 등록화면
+![기업회원정보등록](https://github.com/user-attachments/assets/d554b5cb-902c-460f-8d81-17f3f29dd162)
 
-> #### 회원가입 화면
-![회원가입 화면](https://github.com/user-attachments/assets/4bdc7806-a18c-4415-b426-cdeff8ebde06)
-
-> #### 마이페이지 화면
-![마이페이지](https://github.com/user-attachments/assets/aff62f04-2291-4892-8963-8b7aaa386c64)
+> #### 기업회원 등록화면_2
+![기업회원정보등록2](https://github.com/user-attachments/assets/67bf58bb-10c2-4c5e-a9d1-7b7bda6a7307)
 
   

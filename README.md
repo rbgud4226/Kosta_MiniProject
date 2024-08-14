@@ -1,4 +1,4 @@
-# Kosta_MINIPROJECT<br/>(채용공고 서비스 개발)
+# Kosta Mini_PROJECT<br/>(채용공고 서비스 개발)
 
 ## 목차
 * [프로젝트 개요](#프로젝트-개요)
